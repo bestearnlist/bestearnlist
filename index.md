@@ -1,4 +1,4 @@
-# keep track of the best EARN projects
+## keep track of the best EARN projects
 
 
 ### Best crypto assets by APY interests
