@@ -3,6 +3,7 @@
 
 ### Best crypto assets by APY interests
 ***
+
 | COIN      | APY             | DURATION  | EXCHANGE                          | OVERVIEW               | RATING    |
 | :----:    | :-----:         |   :----:  |  :-----:                          |    :---:               |      ---: |
 | ETH       | 4.90% - 21.60%  | fixed     | [binance](binance.com)            | ETH 2.0 staking        | 8/10      |
